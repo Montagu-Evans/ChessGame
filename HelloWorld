@@ -7,6 +7,7 @@ namespace ChessGame
     public GameBoard()
     {
     Console.WriteLine("Hello World!");
+    Console.ReadLine();
     }
   }
 }
