@@ -18,7 +18,7 @@ namespace Chess1
 
         public void GetPositions()
         {
-            
+            return GetPositions;
         }
 
         public void SetPositions()
