@@ -14,7 +14,7 @@ namespace Chess1
     {
         public Form1()
         {
-            InitializeComponent();
+            InitializeComponent(); //
             GameBoard gameBoard = new GameBoard(8,8);
             Logger logger = new Logger();
             Game game = new Game();
