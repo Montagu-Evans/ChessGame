@@ -10,7 +10,7 @@ namespace ChessGame
     {
         private string name;
 
-        public Player(string name)//
+        public Player(string name)
         {
             this.name = name;
         }
