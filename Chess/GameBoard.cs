@@ -14,6 +14,7 @@ namespace ChessGame
         public GameBoard(int x, int y)
         {
             gameBoard = new int[x, y];
+            ListOfGamePieces = new List<GamePiece>();
         }
 
         public void GetPositions()
@@ -21,9 +22,9 @@ namespace ChessGame
             //return GetPositions;
         }
 
-        public void SetPositions()
+        public int SetPositions()
         {
-
+            return 0;
         } 
     }
 }

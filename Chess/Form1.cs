@@ -14,13 +14,12 @@ namespace ChessGame
     {
         public Form1()
         {
-            InitializeComponent(); //
-            GameBoard gameBoard = new GameBoard(8,8);
+            InitializeComponent();
             Logger logger = new Logger();
             Game game = new Game();
-            
-            gameBoard.ListOfGamePieces = game.CreateAllGamePieces();
-            
+
+            game.CreateAllGamePieces();
+            game.SetStartPositions();
         }
 
         private void btnRules_Click(object sender, EventArgs e)

@@ -17,7 +17,7 @@ namespace ChessGame
 
         public void GetPossibleMoves()
         {
-
+            
         }
 
         public void GetPossibleThreats()
