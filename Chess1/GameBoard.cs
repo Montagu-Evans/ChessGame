@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Chess1
+namespace ChessGame
 {
     class GameBoard
     {
@@ -18,7 +18,7 @@ namespace Chess1
 
         public void GetPositions()
         {
-            return GetPositions;
+            //return GetPositions;
         }
 
         public void SetPositions()

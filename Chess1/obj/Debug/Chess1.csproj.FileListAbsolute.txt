@@ -10,3 +10,12 @@ c:\users\mattias\documents\visual studio 2013\Projects\Chess1\Chess1\obj\Debug\C
 C:\GitHub\ChessGame\Chess1\bin\Debug\Chess1.exe.config
 C:\GitHub\ChessGame\Chess1\obj\Debug\Chess1.exe
 C:\GitHub\ChessGame\Chess1\obj\Debug\Chess1.pdb
+C:\gitProjects\ChessGame\Chess1\bin\Debug\Chess1.exe.config
+C:\gitProjects\ChessGame\Chess1\obj\Debug\Chess1.exe
+C:\gitProjects\ChessGame\Chess1\obj\Debug\Chess1.pdb
+C:\gitProjects\ChessGame\Chess1\obj\Debug\Chess1.csprojResolveAssemblyReference.cache
+C:\gitProjects\ChessGame\Chess1\obj\Debug\ChessGame.Form1.resources
+C:\gitProjects\ChessGame\Chess1\obj\Debug\ChessGame.Properties.Resources.resources
+C:\gitProjects\ChessGame\Chess1\obj\Debug\Chess1.csproj.GenerateResource.Cache
+C:\gitProjects\ChessGame\Chess1\bin\Debug\Chess1.exe
+C:\gitProjects\ChessGame\Chess1\bin\Debug\Chess1.pdb
