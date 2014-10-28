@@ -10,7 +10,7 @@ namespace Chess1
     {
         public Game()
         {
-
+            //Testar 
         }
         public List<GamePiece> CreateAllGamePieces()
         {

@@ -7,3 +7,6 @@ c:\users\mattias\documents\visual studio 2013\Projects\Chess1\Chess1\obj\Debug\C
 c:\users\mattias\documents\visual studio 2013\Projects\Chess1\Chess1\obj\Debug\Chess1.exe
 c:\users\mattias\documents\visual studio 2013\Projects\Chess1\Chess1\obj\Debug\Chess1.pdb
 c:\users\mattias\documents\visual studio 2013\Projects\Chess1\Chess1\obj\Debug\Chess1.Form1.resources
+C:\GitHub\ChessGame\Chess1\bin\Debug\Chess1.exe.config
+C:\GitHub\ChessGame\Chess1\obj\Debug\Chess1.exe
+C:\GitHub\ChessGame\Chess1\obj\Debug\Chess1.pdb
